@@ -1,2 +1,2 @@
 # trebor-transitions
-Official transitions library for TreborJS
+The Official transitions library for TreborJS

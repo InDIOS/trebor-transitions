@@ -1,0 +1,28 @@
+{
+  "name": "trebor-transitions",
+  "version": "0.1.0",
+  "description": "The Official transitions library for TreborJS",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"dependencies": {
+		"hash-sum": "^1.0.2"
+	},
+  "keywords": [],
+	"author": "InDIOS",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/InDIOS/trebor-transitions.git"
+	},
+  "license": "MIT",
+	"contributors": [
+		{
+			"email": "robert04siel@gmail.com",
+			"name": "Roberto Asiel Guevara Castañeda"
+		}
+	]
+}
