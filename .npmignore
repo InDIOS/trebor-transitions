@@ -1,0 +1,7 @@
+.eslintrc.json
+.gitignore
+.travis.yml
+tsconfig.json
+tslint.json
+package-lock.json
+*.ts
